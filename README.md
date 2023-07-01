@@ -6,6 +6,7 @@ Das SIENA-001 Projekt besteht aus einem Jupyter Notebook und einem Excel-File mi
 
 1. SIENA-notebook.ipynb: Jupyter Notebook zur Identifikation und Extraktion von Nutzeranforderungen
 2. SIENA_data_interviews.xlsx: Excel-Datei mit Interviewausschnitten
+3. SIENA-baseline.ipynb: Excel-Datei mit der manuell erstellten Baseline
 
 ## Anforderungen
 
