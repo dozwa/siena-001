@@ -4,7 +4,7 @@ Das SIENA-001 Projekt besteht aus einem Jupyter Notebook und einem Excel-File mi
 
 ## Inhalt
 
-1. SIENA-notebook.ipynb: Jupyter Notebook zur Identifikation und Extraktion von Nutzeranforderungen
+1. SIENA_notebook.ipynb: Jupyter Notebook zur Identifikation und Extraktion von Nutzeranforderungen
 2. SIENA_data_interviews.xlsx: Excel-Datei mit Interviewausschnitten
 3. SIENA_baseline.ipynb: Excel-Datei mit der manuell erstellten Baseline
 
@@ -17,7 +17,7 @@ Das SIENA-001 Projekt besteht aus einem Jupyter Notebook und einem Excel-File mi
 ## Setup
 
 1. Stellen Sie sicher, dass Python und die erforderlichen Pakete installiert sind.
-2. Platzieren Sie Ihre OpenAI API-Schlüssel an der entsprechenden Stelle im Notebook `SIENA-001.ipynb`:
+2. Platzieren Sie Ihre OpenAI API-Schlüssel an der entsprechenden Stelle im Notebook `SIENA_notebook.ipynb`:
 
 ```
 openai.api_key  = "YOUR_API_KEY"
